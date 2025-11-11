@@ -15,23 +15,27 @@
               <div>Javascript</div>
               <div>Typescript</div>
               <div>Golang</div>
+              <div>Python</div> 
               <div>C</div>  
+              <div>C++</div>  
               <div>C#</div>  
               <div>Java</div>  
-              <div>C++</div>  
-              <div>PHP</div>  
-              <div>Python</div>  
+              <div>PHP</div>   
+              <div>Julia</div>  
+              <div>Rust</div>  
             </td>
             <td>
               <div>▰▰▰▰▰</div>
               <div>▰▰▰▰▰</div>
               <div>▰▰▰▰▰</div>
               <div>▰▰▰▰▱</div>
-              <div>▰▰▰▱▱</div>
-              <div>▰▰▰▱▱</div>
               <div>▰▰▰▰▱</div>
-              <div>▰▰▱▱▱</div>
+              <div>▰▰▰▰▱</div>
               <div>▰▰▰▱▱</div>
+              <div>▰▰▰▱▱</div>
+              <div>▰▰▱▱▱</div>
+              <div>▰▰▱▱▱</div>
+              <div>▰▱▱▱▱</div>
             </td>
             <td>
               <div>React</div>
@@ -41,6 +45,8 @@
               <div>Fastify</div>
               <div>Tailwind</div>
               <div>NestJS</div>
+              <div>Qiskit</div>
+              <div>Cirq</div>
             </td>
             <td>
               <div>Docker</div>
@@ -50,7 +56,9 @@
               <div>PostgreSQL</div>
               <div>Redis</div>
               <div>Ubuntu</div>
+              <div>Jupyter</div>
               <div>Nginx</div>
+              <div>AWS</div>
             </td>
         </tr>
 </table>
